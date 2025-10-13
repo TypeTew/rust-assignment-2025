@@ -9,5 +9,9 @@ fn main() {
     let msg3 = "Hello, World!";
     let msg4 = format!("Point: {}, {}", x, y);
 
+    println!("{}", z);
+    println!("{}", msg);
+    println!("{}", msg2);
+    println!("{}", msg3);
     println!("{}", msg4);
 }
