@@ -21,8 +21,10 @@ Cargo.lock
 .idea/
 *.swp
 *.swo
-*~
+
+# OS
 .DS_Store
+Thumbs.db
 
 # Cargo build artifacts
 **/*.rs.bk
