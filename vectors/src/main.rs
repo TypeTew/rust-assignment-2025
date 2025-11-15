@@ -13,5 +13,5 @@ fn main() {
     items.remove(1);
     println!("Items: {:?}", items);
     println!("Total items: {}", items.len());
-    print!("Item Capacity: {}", items.capacity())
+    println!("Item Capacity: {}", items.capacity());
 }
